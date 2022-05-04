@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Apple iPhone 12 64Gb Purple",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/111259_1648463841_photos_0.jpeg",
+      "price": "64 690",
+      "id": "baf530cd-65e4-4e80-86f0-94bbf5e14900"
+    },
+    {
+      "name": "Samsung Galaxy S22 256Gb Phantom Black",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/107734_1648011978_photos_0.jpeg",
+      "price": "97 990",
+      "id": "715ceedc-c04a-469e-80e1-751d1cee3a6c"
+    },
+    {
+      "name": "Apple iPhone 11 64Gb Green",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/67637_photos_0.jpeg",
+      "price": "49 950",
+      "id": "88d948fe-717f-4445-870b-963ee1ecd3f1"
+    },
+    {
+      "name": "Samsung Galaxy S22 256Gb Pink",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/108629_1648011978_photos_0.jpeg",
+      "price": "101 990",
+      "id": "7b99be09-75a9-420b-8281-31a25644a8a0"
+    },
+    {
+      "name": "Xiaomi Redmi 9A 2 32Gb RU Grey",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/74848_photos_0.jpeg",
+      "price": "8 290",
+      "id": "21a691f4-a0f5-45bf-807c-0ebda0ca53bc"
+    },
+    {
+      "name": "Xiaomi Redmi Note 10S 6 128Gb NFC RU Pebble White",
+      "description": "Довольно-таки интересное описание товара в несколько строк. Довольно-таки интересное описание товара в несколько строк",
+      "imageUrl": "https://quke.ru/resize/200x200/UserFiles/Landing/products/98344_photos_0.jpeg",
+      "price": "19 290",
+      "id": "8b7526ba-da62-4d69-acf0-ca0c6b35d6d2"
+    }
+  ]
+}
